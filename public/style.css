@@ -1,0 +1,57 @@
+body {
+
+  background-color: #bb87eb;
+}
+
+#repo-form {
+  margin-left: 40%;
+
+}
+
+input {
+  padding: 15px;
+  border: none;
+  border-radius: 15px;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #fc5454;
+}
+
+button {
+  background-color: #fd7070;
+  border: none;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+ul {
+  list-style: none;
+  margin: 0%;
+  padding: 0%;
+  font-family: sans-serif;
+}
+
+li {
+
+  clear: both;
+  margin-top: 20px;
+}
+
+img {
+  float: left;
+  width: 80px;
+  margin-right: 10px;
+}
+
+strong {
+  font-size: 20px;
+}
+
+p {
+  margin: 5px 0;
+}
